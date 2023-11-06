@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Simple Chatty Bot (Python)/*
+!/Simple Chatty Bot (Python)/task/
+/Simple Chatty Bot (Python)/task/*
+!/Simple Chatty Bot (Python)/task/bot
